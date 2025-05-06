@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "स्पीड टेस्ट",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "RunSpeedTestIntent",
+          "slots": [],
+          "samples": [
+            "स्पीड टेस्ट करो",
+            "मेरी इंटरनेट स्पीड चेक करो",
+            "मेरी इंटरनेट स्पीड टेस्ट करो",
+            "मेरी इंटरनेट स्पीड मापो",
+            "मेरी इंटरनेट स्पीड कितनी है",
+            "मेरी इंटरनेट स्पीड बताओ",
+            "मेरी बैंडविड्थ चेक करो",
+            "मेरी बैंडविड्थ टेस्ट करो",
+            "मेरी बैंडविड्थ मापो"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}

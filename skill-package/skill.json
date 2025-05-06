@@ -26,6 +26,118 @@
             "bandwidth",
             "network speed"
           ]
+        },
+        "en-GB": {
+          "name": "Speed Test",
+          "summary": "Check your internet speed using Alexa",
+          "description": "This skill allows you to check your internet speed using the speedtest.net service. Just ask Alexa to run a speed test and she'll measure your download and upload speeds.",
+          "examplePhrases": [
+            "Alexa, open speed test",
+            "Alexa, ask speed test to check my internet speed",
+            "Alexa, tell speed test to run a test"
+          ],
+          "keywords": [
+            "speed test",
+            "internet speed",
+            "bandwidth",
+            "network speed"
+          ]
+        },
+        "de-DE": {
+          "name": "Geschwindigkeitstest",
+          "summary": "Überprüfen Sie Ihre Internetgeschwindigkeit mit Alexa",
+          "description": "Diese Skill ermöglicht es Ihnen, Ihre Internetgeschwindigkeit mit dem speedtest.net-Dienst zu überprüfen. Fragen Sie einfach Alexa, einen Geschwindigkeitstest durchzuführen, und sie misst Ihre Download- und Upload-Geschwindigkeiten.",
+          "examplePhrases": [
+            "Alexa, öffne geschwindigkeitstest",
+            "Alexa, frage geschwindigkeitstest nach meiner internetgeschwindigkeit",
+            "Alexa, sage geschwindigkeitstest, führe einen test durch"
+          ],
+          "keywords": [
+            "geschwindigkeitstest",
+            "internetgeschwindigkeit",
+            "bandbreite",
+            "netzwerkgeschwindigkeit"
+          ]
+        },
+        "fr-FR": {
+          "name": "Test de Vitesse",
+          "summary": "Vérifiez votre vitesse internet avec Alexa",
+          "description": "Cette skill vous permet de vérifier votre vitesse internet en utilisant le service speedtest.net. Demandez simplement à Alexa de lancer un test de vitesse et elle mesurera vos vitesses de téléchargement et d'envoi.",
+          "examplePhrases": [
+            "Alexa, ouvre test de vitesse",
+            "Alexa, demande à test de vitesse de vérifier ma vitesse internet",
+            "Alexa, dis à test de vitesse de lancer un test"
+          ],
+          "keywords": [
+            "test de vitesse",
+            "vitesse internet",
+            "bande passante",
+            "vitesse réseau"
+          ]
+        },
+        "es-ES": {
+          "name": "Prueba de Velocidad",
+          "summary": "Comprueba tu velocidad de internet con Alexa",
+          "description": "Esta skill te permite comprobar tu velocidad de internet utilizando el servicio speedtest.net. Solo tienes que pedirle a Alexa que realice una prueba de velocidad y medirá tus velocidades de descarga y subida.",
+          "examplePhrases": [
+            "Alexa, abre prueba de velocidad",
+            "Alexa, pide a prueba de velocidad que compruebe mi velocidad de internet",
+            "Alexa, dile a prueba de velocidad que realice una prueba"
+          ],
+          "keywords": [
+            "prueba de velocidad",
+            "velocidad de internet",
+            "ancho de banda",
+            "velocidad de red"
+          ]
+        },
+        "it-IT": {
+          "name": "Test Velocità",
+          "summary": "Controlla la tua velocità internet con Alexa",
+          "description": "Questa skill ti permette di controllare la tua velocità internet utilizzando il servizio speedtest.net. Chiedi semplicemente ad Alexa di eseguire un test di velocità e misurerà le tue velocità di download e upload.",
+          "examplePhrases": [
+            "Alexa, apri test velocità",
+            "Alexa, chiedi a test velocità di controllare la mia velocità internet",
+            "Alexa, di' a test velocità di eseguire un test"
+          ],
+          "keywords": [
+            "test velocità",
+            "velocità internet",
+            "larghezza di banda",
+            "velocità rete"
+          ]
+        },
+        "ja-JP": {
+          "name": "スピードテスト",
+          "summary": "Alexaでインターネット速度を確認",
+          "description": "このスキルでは、speedtest.netサービスを使用してインターネット速度を確認できます。Alexaにスピードテストを実行するように依頼するだけで、ダウンロードとアップロードの速度を測定します。",
+          "examplePhrases": [
+            "Alexa、スピードテストを開いて",
+            "Alexa、スピードテストにインターネット速度を確認して",
+            "Alexa、スピードテストにテストを実行して"
+          ],
+          "keywords": [
+            "スピードテスト",
+            "インターネット速度",
+            "帯域幅",
+            "ネットワーク速度"
+          ]
+        },
+        "hi-IN": {
+          "name": "स्पीड टेस्ट",
+          "summary": "Alexa से अपनी इंटरनेट स्पीड चेक करें",
+          "description": "यह स्किल आपको speedtest.net सेवा का उपयोग करके अपनी इंटरनेट स्पीड चेक करने की सुविधा देती है। बस Alexa से स्पीड टेस्ट करने के लिए कहें और वह आपकी डाउनलोड और अपलोड स्पीड मापेगी।",
+          "examplePhrases": [
+            "Alexa, स्पीड टेस्ट खोलो",
+            "Alexa, स्पीड टेस्ट से मेरी इंटरनेट स्पीड चेक करो",
+            "Alexa, स्पीड टेस्ट से टेस्ट करो"
+          ],
+          "keywords": [
+            "स्पीड टेस्ट",
+            "इंटरनेट स्पीड",
+            "बैंडविड्थ",
+            "नेटवर्क स्पीड"
+          ]
         }
       },
       "isAvailableWorldwide": true,

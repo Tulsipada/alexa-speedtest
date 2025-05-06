@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "スピードテスト",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "RunSpeedTestIntent",
+          "slots": [],
+          "samples": [
+            "スピードテストを実行して",
+            "インターネットの速度を確認して",
+            "インターネットの速度をテストして",
+            "インターネットの速度を測定して",
+            "インターネットの速度はどれくらい",
+            "インターネットの速度を教えて",
+            "帯域幅を確認して",
+            "帯域幅をテストして",
+            "帯域幅を測定して"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}

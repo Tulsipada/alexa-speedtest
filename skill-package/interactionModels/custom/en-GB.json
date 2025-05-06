@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "speed test",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "RunSpeedTestIntent",
+          "slots": [],
+          "samples": [
+            "run a speed test",
+            "check my internet speed",
+            "test my internet speed",
+            "measure my internet speed",
+            "how fast is my internet",
+            "what's my internet speed",
+            "check my bandwidth",
+            "test my bandwidth",
+            "measure my bandwidth"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}

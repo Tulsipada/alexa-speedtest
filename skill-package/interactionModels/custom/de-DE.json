@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "geschwindigkeitstest",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "RunSpeedTestIntent",
+          "slots": [],
+          "samples": [
+            "führe einen geschwindigkeitstest durch",
+            "überprüfe meine internetgeschwindigkeit",
+            "teste meine internetgeschwindigkeit",
+            "messe meine internetgeschwindigkeit",
+            "wie schnell ist mein internet",
+            "was ist meine internetgeschwindigkeit",
+            "überprüfe meine bandbreite",
+            "teste meine bandbreite",
+            "messe meine bandbreite"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "prueba de velocidad",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "RunSpeedTestIntent",
+          "slots": [],
+          "samples": [
+            "realizar una prueba de velocidad",
+            "comprobar mi velocidad de internet",
+            "probar mi velocidad de internet",
+            "medir mi velocidad de internet",
+            "qué velocidad tiene mi internet",
+            "cuál es mi velocidad de internet",
+            "comprobar mi ancho de banda",
+            "probar mi ancho de banda",
+            "medir mi ancho de banda"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}

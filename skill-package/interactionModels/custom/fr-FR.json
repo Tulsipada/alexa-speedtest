@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "test de vitesse",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "RunSpeedTestIntent",
+          "slots": [],
+          "samples": [
+            "lancer un test de vitesse",
+            "vérifier ma vitesse internet",
+            "tester ma vitesse internet",
+            "mesurer ma vitesse internet",
+            "quelle est la vitesse de mon internet",
+            "quelle est ma vitesse internet",
+            "vérifier ma bande passante",
+            "tester ma bande passante",
+            "mesurer ma bande passante"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
