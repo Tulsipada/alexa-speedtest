@@ -1,0 +1,37 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "lambda/src/index.js"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "Speed Test",
+          "summary": "Check your internet speed using Alexa",
+          "description": "This skill allows you to check your internet speed using the speedtest.net service. Just ask Alexa to run a speed test and she'll measure your download and upload speeds.",
+          "examplePhrases": [
+            "Alexa, open speed test",
+            "Alexa, ask speed test to check my internet speed",
+            "Alexa, tell speed test to run a test"
+          ],
+          "keywords": [
+            "speed test",
+            "internet speed",
+            "bandwidth",
+            "network speed"
+          ]
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Test the skill by asking Alexa to run a speed test. The test may take a few minutes to complete.",
+      "category": "UTILITIES",
+      "distributionCountries": []
+    }
+  }
+}

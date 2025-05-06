@@ -1,0 +1,11 @@
+{
+  "name": "alexa-speedtest-lambda",
+  "version": "1.0.0",
+  "description": "Lambda function for Alexa Speed Test skill",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk-core": "^2.11.0",
+    "ask-sdk-model": "^1.19.0",
+    "speedtest-net": "^2.2.0"
+  }
+}
