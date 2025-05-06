@@ -1,0 +1,101 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": {
+        "en-US": "internet speed test",
+        "en-GB": "internet speed test",
+        "en-CA": "internet speed test",
+        "en-AU": "internet speed test",
+        "en-IN": "internet speed test",
+        "de-DE": "internet geschwindigkeitstest",
+        "es-ES": "prueba de velocidad",
+        "fr-FR": "test de vitesse internet",
+        "it-IT": "test velocita internet",
+        "ja-JP": "インターネット速度テスト",
+        "pt-BR": "teste de velocidade",
+        "hi-IN": "इंटरनेट स्पीड टेस्ट",
+        "es-MX": "prueba de velocidad"
+      },
+      "intents": [
+        {
+          "name": "SpeedTestIntent",
+          "slots": [],
+          "samples": {
+            "en-US": [
+              "check my internet speed",
+              "run a speed test",
+              "test my internet speed",
+              "what's my internet speed",
+              "how fast is my internet",
+              "check internet speed",
+              "run speed test",
+              "test internet speed"
+            ],
+            "de-DE": [
+              "prüfe meine internetgeschwindigkeit",
+              "führe einen geschwindigkeitstest durch",
+              "teste meine internetgeschwindigkeit",
+              "wie schnell ist mein internet",
+              "geschwindigkeitstest starten"
+            ],
+            "es-ES": [
+              "comprobar mi velocidad de internet",
+              "realizar prueba de velocidad",
+              "probar mi velocidad de internet",
+              "cuál es mi velocidad de internet",
+              "qué tan rápido es mi internet"
+            ],
+            "fr-FR": [
+              "vérifier ma vitesse internet",
+              "faire un test de vitesse",
+              "tester ma vitesse internet",
+              "quelle est ma vitesse internet",
+              "à quelle vitesse va mon internet"
+            ],
+            "it-IT": [
+              "controlla la mia velocità internet",
+              "esegui un test di velocità",
+              "testa la mia velocità internet",
+              "qual è la mia velocità internet",
+              "quanto è veloce il mio internet"
+            ],
+            "ja-JP": [
+              "インターネット速度を確認",
+              "速度テストを実行",
+              "インターネット速度をテスト",
+              "インターネットの速度はどれくらい",
+              "速度テストを開始"
+            ],
+            "pt-BR": [
+              "verificar minha velocidade de internet",
+              "fazer teste de velocidade",
+              "testar minha velocidade de internet",
+              "qual é minha velocidade de internet",
+              "quão rápida é minha internet"
+            ],
+            "hi-IN": [
+              "मेरी इंटरनेट स्पीड चेक करें",
+              "स्पीड टेस्ट चलाएं",
+              "मेरी इंटरनेट स्पीड टेस्ट करें",
+              "मेरी इंटरनेट स्पीड क्या है",
+              "मेरा इंटरनेट कितना तेज़ है"
+            ]
+          }
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": {}
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": {}
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": {}
+        }
+      ],
+      "types": []
+    }
+  }
+}

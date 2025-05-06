@@ -1,0 +1,22 @@
+{
+  "name": "alexa-speedtest",
+  "version": "1.0.0",
+  "description": "Alexa skill to check internet speed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "speedtest",
+    "internet"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.11.0",
+    "ask-sdk-model": "^1.19.0",
+    "speedtest-net": "^2.2.0"
+  }
+} 
