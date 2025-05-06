@@ -1,5 +1,5 @@
 {
-  "name": "alexa-speedtest",
+  "name": "Internet Speed Test",
   "version": "1.0.0",
   "description": "Alexa skill to check internet speed",
   "main": "index.js",
